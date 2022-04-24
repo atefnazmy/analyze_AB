@@ -1,5 +1,4 @@
 # Data-Visualization-Project
-Project 4 in the Udacity Data Foundations (Business Analytics) Nanodegree (DFND/BAND)
 
 **View Project visualizations:** https://public.tableau.com/profile/tamunotonye.harry#!/
 
